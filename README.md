@@ -1,4 +1,4 @@
-<div align='center'><h3><a href='https://felisdevelopment.github.io/docs/storage/'>Read the documentation for installation and config</a></h3></div>
+<div align='center'><h3><a href='https://felisdevelopment.github.io/docs/storage/'>Read the documentation for installation and configuration</a></h3></div>
 
 
 # Issues
